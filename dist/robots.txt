@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-legacy-landscaping.dream-surge.com/sitemap-index.xml

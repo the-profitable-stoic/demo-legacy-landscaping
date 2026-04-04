@@ -1,0 +1,488 @@
+{
+  "business": {
+    "name": "Legacy Landscaping",
+    "phone": "555-lan-r94",
+    "category": "landscaping",
+    "city": "Portland",
+    "state": "OR"
+  },
+  "design": {
+    "preset": {
+      "id": "landscaping-heritage-craft",
+      "categoryGroup": "landscaping",
+      "name": "Heritage Craft",
+      "recipeFile": "landscaping/heritage-craft.astro",
+      "colors": {
+        "primary": "#5A7A42",
+        "primaryDark": "#364928",
+        "primaryLight": "#c5d0bd",
+        "secondary": "#4d6838",
+        "accent": "#5A7A42",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#4d6838",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "landscaping/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Portland's Trusted Landscaping Experts",
+      "heroSubline": "Transforming outdoor spaces with sustainable, climate-appropriate designs. Serving Beaverton, Hillsboro, Lake Oswego, and Tigard since 2012.",
+      "aboutTitle": "Rooted in Portland's Landscape",
+      "aboutText": [
+        "Founded in 2012, Legacy Landscaping began with a simple mission: to create outdoor spaces that thrive in Portland's unique climate. Our founder, a Portland native, understood the challenges of our wet winters and dry summers firsthand.",
+        "We specialize in solutions that prevent moss buildup, manage water runoff, and use native plants that flourish in our region. Every design considers the specific microclimate of your property.",
+        "As active members of the Portland Urban Forestry Commission, we're committed to preserving our city's green spaces while creating beautiful, functional landscapes for homeowners."
+      ],
+      "valueProps": [
+        {
+          "title": "Climate-Smart Designs",
+          "description": "Our landscapes are built to handle Portland's 40+ inches of annual rainfall while staying vibrant during dry summers."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We know which plants thrive in Beaverton's clay soils versus Lake Oswego's lakefront properties."
+        },
+        {
+          "title": "Full-Service Care",
+          "description": "From initial design to seasonal maintenance, we handle all aspects of your landscape."
+        },
+        {
+          "title": "Sustainable Practices",
+          "description": "We prioritize native plants, rainwater harvesting, and organic treatments to protect Portland's ecosystem."
+        }
+      ],
+      "ctaHeadline": "Ready for a Landscape That Works With Portland's Climate?",
+      "ctaSubline": "Schedule your free consultation today and get a custom plan for your outdoor space."
+    },
+    "services": [
+      {
+        "slug": "rain-garden-installation",
+        "name": "Rain Garden Installation",
+        "shortDescription": "Beautiful solutions for managing Portland's heavy rainfall while preventing soil erosion.",
+        "description": "Rain gardens are essential for Portland properties dealing with our 40+ inches of annual rainfall. We design shallow depressions planted with native species that naturally filter runoff while adding visual interest to your landscape.\n\nOur process begins with evaluating your property's drainage patterns and soil composition. For homes in Beaverton's clay-heavy areas, we incorporate specific amendments to ensure proper water absorption. The gardens we install feature plants like Douglas aster and red-twig dogwood that thrive in both wet and dry conditions.\n\nBeyond functionality, our rain gardens become focal points in your yard. We create tiered designs that showcase seasonal color while providing habitat for local pollinators. Maintenance is minimal once established, making them perfect for busy Portland homeowners.",
+        "process": [
+          "Step 1: Site evaluation including drainage assessment and soil testing",
+          "Step 2: Custom design incorporating native plants suited to your microclimate",
+          "Step 3: Excavation and soil amendment specific to Portland's conditions",
+          "Step 4: Planting and establishment care instructions"
+        ],
+        "benefits": [
+          "Reduces basement flooding common in older Portland homes",
+          "Filters pollutants from runoff before reaching waterways",
+          "Provides habitat for native birds and pollinators",
+          "Low maintenance compared to traditional landscaping"
+        ],
+        "faq": [
+          {
+            "question": "Will a rain garden attract mosquitoes?",
+            "answer": "Properly designed rain gardens drain within 24-48 hours, preventing mosquito breeding. We use specific soil mixes that promote rapid absorption while supporting plant health."
+          },
+          {
+            "question": "How long until the plants fill in?",
+            "answer": "Most native plants we use establish within one growing season. We strategically space plants to account for Portland's vigorous growing conditions while preventing overcrowding."
+          }
+        ]
+      },
+      {
+        "slug": "drought-tolerant-landscaping",
+        "name": "Drought-Tolerant Landscaping",
+        "shortDescription": "Water-smart designs that stay lush during Portland's increasingly dry summers.",
+        "description": "While Portland is known for rain, our summers have become progressively drier. Our drought-tolerant landscapes use plants that thrive with minimal watering once established, saving you time and resources.\n\nWe specialize in Mediterranean and native Northwest plants that naturally adapt to dry conditions. For homes in Hillsboro's newer developments with strict HOA requirements, we create designs that meet aesthetic guidelines while conserving water. Our approach layers plants for visual interest year-round, from the silver foliage of wooly thyme to the vibrant blooms of blanket flower.\n\nEvery design includes strategic mulching with locally-sourced materials to retain moisture and suppress weeds. We can retrofit existing landscapes or create entirely new designs that reduce your outdoor water use by up to 60%.",
+        "process": [
+          "Step 1: Evaluation of sun exposure and soil conditions",
+          "Step 2: Selection of appropriate drought-resistant plants",
+          "Step 3: Soil preparation with water-retentive amendments",
+          "Step 4: Installation with proper spacing for mature growth"
+        ],
+        "benefits": [
+          "Reduces water usage during Portland's dry summers",
+          "Minimizes maintenance requirements",
+          "Provides year-round visual interest",
+          "Increases property value with sustainable features"
+        ],
+        "faq": [
+          {
+            "question": "Will my yard look barren in winter?",
+            "answer": "We select plants with evergreen foliage, interesting bark, or seed heads that provide winter interest. Many Mediterranean herbs like rosemary stay green year-round in our climate."
+          },
+          {
+            "question": "How much can I expect to save on water bills?",
+            "answer": "Most clients see a 30-50% reduction in summer water usage. The exact savings depend on your current landscape and the size of the converted area."
+          }
+        ]
+      },
+      {
+        "slug": "moss-management",
+        "name": "Moss Management",
+        "shortDescription": "Expert solutions for controlling moss without harming Portland's delicate ecosystem.",
+        "description": "Moss is both a blessing and curse in Portland's damp climate. While it adds charm to some areas, it can make walkways dangerously slippery and smother lawns. Our moss management approach balances control with environmental responsibility.\n\nFor older homes in Portland's historic districts with original stonework, we use gentle manual removal techniques that preserve the integrity of materials. On lawns, we improve drainage and adjust soil pH to create conditions less favorable to moss while promoting healthy grass growth.\n\nIn shady areas where moss naturally thrives, we sometimes recommend embracing it as a sustainable groundcover alternative. Our designers can create intentional moss gardens featuring native species like mood moss that create a lush, low-maintenance carpet. For clients who prefer traditional lawns, we offer seasonal moss treatment programs tailored to Portland's specific climate patterns.",
+        "process": [
+          "Step 1: Assessment of moss types and underlying causes",
+          "Step 2: Custom treatment plan addressing drainage, shade, and soil conditions",
+          "Step 3: Application of eco-friendly treatments (if needed)",
+          "Step 4: Preventative maintenance recommendations"
+        ],
+        "benefits": [
+          "Reduces slippery surfaces on walkways and driveways",
+          "Improves lawn health by addressing underlying conditions",
+          "Environmentally responsible treatment options",
+          "Can transform problem areas into intentional moss features"
+        ],
+        "faq": [
+          {
+            "question": "Are your moss treatments safe for pets?",
+            "answer": "We use iron-based products that are pet-safe once dry, typically within 2-3 hours. For families with frequent outdoor pets, we can discuss completely non-chemical approaches."
+          },
+          {
+            "question": "How often will I need retreatments?",
+            "answer": "Most properties need 1-2 treatments annually, typically in early spring and late fall when moss is most active. We time applications to avoid disrupting Portland's rainy season runoff."
+          }
+        ]
+      },
+      {
+        "slug": "native-plant-gardens",
+        "name": "Native Plant Gardens",
+        "shortDescription": "Ecologically rich landscapes featuring plants that naturally thrive in the Portland area.",
+        "description": "Native plant gardens offer beauty, biodiversity, and effortless maintenance - perfect for Portland homeowners who want to work with nature rather than against it. Our designs showcase the incredible variety of Northwest native plants, from towering Douglas firs to delicate fawn lilies.\n\nFor properties near Forest Park or other natural areas, we create transitional gardens that blend seamlessly with the surrounding ecology. In urban settings like the Pearl District, we design compact native gardens that thrive in constrained spaces. Every installation includes educational materials about the plants' cultural significance and ecological roles.\n\nWe source plants from local nurseries specializing in Willamette Valley genotypes, ensuring they're adapted to our specific conditions. Our gardens become living habitats, attracting hummingbirds, butterflies, and beneficial insects while requiring minimal inputs once established.",
+        "process": [
+          "Step 1: Site analysis including sun patterns and existing ecology",
+          "Step 2: Selection of appropriate native species for your microclimate",
+          "Step 3: Soil preparation mimicking natural forest floors",
+          "Step 4: Planting with proper spacing for natural growth habits"
+        ],
+        "benefits": [
+          "Supports local wildlife and pollinators",
+          "Requires less water and maintenance than traditional gardens",
+          "Deep roots prevent soil erosion on sloped properties",
+          "Creates sense of place connected to Portland's natural heritage"
+        ],
+        "faq": [
+          {
+            "question": "Will native plants look too wild for my neighborhood?",
+            "answer": "We design gardens with intentional structure and seasonal interest that meet community standards. Many native plants like vine maple and Oregon grape have very refined appearances."
+          },
+          {
+            "question": "How quickly do native plants establish?",
+            "answer": "While some species grow slowly initially, they typically outperform non-natives within 2-3 years. We use strategic planting techniques to ensure good coverage from the start."
+          }
+        ]
+      },
+      {
+        "slug": "patio-hardscaping",
+        "name": "Patio & Hardscaping",
+        "shortDescription": "Durable outdoor living spaces designed for Portland's weather patterns.",
+        "description": "Portland's love of outdoor living demands patios that can handle our climate. We design and install hardscapes using materials that withstand freeze-thaw cycles and resist moss growth while complementing your home's architecture.\n\nFor Craftsman bungalows common in Portland's historic neighborhoods, we often use locally-quarried basalt or reclaimed brick. In modern Pearl District condos, we might suggest sleek concrete pavers with proper drainage channels. Every design considers the slope of your property to prevent water pooling during our rainy winters.\n\nOur hardscapes go beyond basic patios - we create complete outdoor rooms with integrated seating walls, fire features, and subtle grading that directs water away from foundations. For homes in Lake Oswego with steep slopes, we specialize in retaining walls that blend seamlessly with the landscape while providing crucial erosion control.",
+        "process": [
+          "Step 1: Consultation to understand your outdoor living needs",
+          "Step 2: Site evaluation including drainage considerations",
+          "Step 3: Custom design with material selections",
+          "Step 4: Professional installation with proper base preparation"
+        ],
+        "benefits": [
+          "Expands usable living space into your yard",
+          "Uses materials that withstand Portland's climate",
+          "Increases property value with high-quality construction",
+          "Reduces maintenance compared to planted areas"
+        ],
+        "faq": [
+          {
+            "question": "What's the best material for a low-maintenance patio?",
+            "answer": "Porcelain pavers resist staining and moss growth while staying cool underfoot. For a more natural look, tumbled basalt has excellent traction when wet and blends beautifully with Northwest landscapes."
+          },
+          {
+            "question": "How do you prevent frost heave in winter?",
+            "answer": "We excavate to proper depth (12\"+ in most Portland areas) and use gravel base materials that allow for drainage and movement without shifting. Proper edge restraints are also crucial."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Rain Garden Installation",
+        "text": "After years of basement flooding in our 1920s Portland bungalow, Legacy installed a rain garden that solved our water issues while creating a stunning native plant display. They understood exactly how to grade our sloped lot to direct water properly. The Oregon iris they planted has spread beautifully and attracts hummingbirds daily.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "James T.",
+        "rating": 5,
+        "service": "Drought-Tolerant Landscaping",
+        "text": "Our Hillsboro HOA required landscaping but we hated wasting water. Legacy transformed our front yard with aromatic herbs and ornamental grasses that stay lush with minimal care. Their design included clever zoning that groups plants by water needs, saving us 45% on summer irrigation. The lavender hedge smells amazing when we walk to the mailbox.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Maya R.",
+        "rating": 5,
+        "service": "Moss Management",
+        "text": "The moss on our Lake Oswego flagstone patio was becoming dangerously slippery. Rather than harsh chemicals, Legacy used a combination of manual removal and pH adjustment that kept the moss at bay naturally. They even salvaged some beautiful moss patches to create a miniature garden in our shady side yard. Eco-friendly and effective!",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "David P.",
+        "rating": 5,
+        "service": "Native Plant Garden",
+        "text": "Living near Forest Park, we wanted our Tigard yard to feel connected to the natural surroundings. Legacy designed a stunning woodland garden with trillium, ferns, and vine maple that changes with the seasons. Their knowledge of which plants deer avoid saved us countless headaches. Two years later, it looks established yet perfectly maintained.",
+        "date": "2025-05-18"
+      },
+      {
+        "name": "Lisa M.",
+        "rating": 5,
+        "service": "Patio & Hardscaping",
+        "text": "Our new basalt patio in Beaverton has become the centerpiece of our backyard. Legacy suggested subtle curves that make the space feel larger, and the built-in seating walls mean we always have room for guests. Even after the winter rains, there's no pooling or shifting - just a beautiful, functional outdoor room.",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "Carlos S.",
+        "rating": 5,
+        "service": "Comprehensive Landscape Redesign",
+        "text": "Legacy completely transformed our neglected corner lot in Portland's Alberta Arts district. They addressed drainage issues, created distinct garden rooms, and selected plants that thrive in our microclimate. The serviceberry tree they planted gives us four seasons of interest and the birds love it. Professional from start to finish.",
+        "date": "2025-06-30"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Portland Landscaping Services | Legacy Landscaping",
+        "description": "Expert landscaping solutions designed for Portland's unique climate. Serving Beaverton, Hillsboro, Lake Oswego & Tigard with sustainable, beautiful outdoor spaces."
+      },
+      "about": {
+        "title": "About Our Portland Landscaping Company",
+        "description": "Learn how Legacy Landscaping's deep local knowledge creates thriving outdoor spaces adapted to Portland's wet winters and dry summers."
+      },
+      "services": {
+        "title": "Portland Landscaping Services | Climate-Smart Designs",
+        "description": "Specialized landscaping services addressing moss control, rainwater management, and drought tolerance in the Portland metro area."
+      },
+      "contact": {
+        "title": "Contact Portland's Landscaping Experts",
+        "description": "Get in touch with Legacy Landscaping for a free consultation on your Portland-area landscaping project."
+      },
+      "reviews": {
+        "title": "Portland Landscaping Reviews | Legacy Landscaping",
+        "description": "See what Portland homeowners say about their experience with Legacy Landscaping's climate-appropriate designs and quality workmanship."
+      },
+      "service-areas": {
+        "title": "Portland Area Landscaping Services",
+        "description": "Professional landscaping services tailored to Beaverton, Hillsboro, Lake Oswego, Tigard and surrounding Portland communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Beaverton",
+        "slug": "beaverton-or",
+        "state": "OR",
+        "content": "Legacy Landscaping provides expert lawn care, garden design, and hardscaping services tailored to Beaverton's 1970s-80s suburban ranch homes. Our team understands the challenges of maintaining lush greenery in mild, wet winters with persistent rain, offering solutions like drainage systems and rain-resistant plants. Whether you need seasonal maintenance or a full landscape overhaul, we bring creativity and reliability to every project.",
+        "localContext": "Beaverton features a mix of well-established neighborhoods with spacious yards, perfect for custom landscaping projects.",
+        "nearbyAreas": [
+          "Portland",
+          "Hillsboro",
+          "Tigard"
+        ]
+      },
+      {
+        "city": "Hillsboro",
+        "slug": "hillsboro-or",
+        "state": "OR",
+        "content": "Serving Hillsboro's tech-corridor and newer housing developments, Legacy Landscaping specializes in modern, low-maintenance landscapes suited for busy professionals. Our services include drought-tolerant plantings, automated irrigation, and sleek hardscape designs to complement contemporary homes. With Hillsboro's mild, wet winters, we prioritize solutions that prevent waterlogging while keeping your outdoor space vibrant year-round.",
+        "localContext": "Hillsboro's growing tech industry has spurred demand for stylish, sustainable landscapes in newer neighborhoods.",
+        "nearbyAreas": [
+          "Beaverton",
+          "Forest Grove",
+          "Cornelius"
+        ]
+      },
+      {
+        "city": "Lake Oswego",
+        "slug": "lake-oswego-or",
+        "state": "OR",
+        "content": "Legacy Landscaping transforms Lake Oswego's upscale lakefront properties with elegant, high-end landscaping that enhances natural beauty. From waterfront garden designs to privacy hedges and stone pathways, we cater to discerning homeowners seeking refined outdoor spaces. Our expertise in managing mild, wet winters ensures your landscape remains pristine, with proper drainage and year-round color.",
+        "localContext": "Lake Oswego's affluent community values luxurious, well-maintained outdoor living spaces.",
+        "nearbyAreas": [
+          "West Linn",
+          "Tualatin",
+          "Portland"
+        ]
+      },
+      {
+        "city": "Tigard",
+        "slug": "tigard-or",
+        "state": "OR",
+        "content": "Legacy Landscaping helps Tigard homeowners revitalize their 1970s-80s suburban yards with customized landscaping solutions. We address common issues like compacted soil and aging shrubs, offering fresh designs with native plants and efficient irrigation. Tigard's mild, wet winters demand careful planning, and our team ensures your landscape thrives in all seasons.",
+        "localContext": "Tigard's family-friendly neighborhoods often feature larger lots ideal for functional and beautiful landscapes.",
+        "nearbyAreas": [
+          "Beaverton",
+          "Tualatin",
+          "Sherwood"
+        ]
+      },
+      {
+        "city": "Portland",
+        "slug": "portland-or",
+        "state": "OR",
+        "content": "Legacy Landscaping serves Portland's diverse neighborhoods, from historic bungalows to modern eco-friendly homes. Our services include organic lawn care, native plant landscaping, and sustainable hardscaping to match Portland's eco-conscious ethos. With the city's mild, wet winters, we focus on rain gardens and permeable paving to manage runoff while enhancing curb appeal.",
+        "localContext": "Portland's unique blend of urban and natural landscapes calls for creative, sustainable designs.",
+        "nearbyAreas": [
+          "Beaverton",
+          "Gresham",
+          "Lake Oswego"
+        ]
+      },
+      {
+        "city": "West Linn",
+        "slug": "west-linn-or",
+        "state": "OR",
+        "content": "Legacy Landscaping enhances West Linn's scenic hillside and riverside properties with tailored landscaping that complements the natural terrain. We specialize in terraced gardens, retaining walls, and native plantings that thrive in the area's mild, wet climate. Whether you seek a serene retreat or an entertainment-ready backyard, we deliver stunning results.",
+        "localContext": "West Linn's rolling landscapes and upscale homes demand thoughtful, high-quality landscaping.",
+        "nearbyAreas": [
+          "Lake Oswego",
+          "Oregon City",
+          "Tualatin"
+        ]
+      },
+      {
+        "city": "Tualatin",
+        "slug": "tualatin-or",
+        "state": "OR",
+        "content": "Legacy Landscaping provides Tualatin residents with comprehensive lawn and garden services designed for the city's mix of older and newer homes. From seasonal cleanups to custom patio installations, we ensure your outdoor space is both functional and beautiful. Tualatin's mild, wet winters require expert care, and we offer solutions like moss control and proper drainage.",
+        "localContext": "Tualatin's growing suburbs benefit from landscaping that balances aesthetics and practicality.",
+        "nearbyAreas": [
+          "Lake Oswego",
+          "Tigard",
+          "Sherwood"
+        ]
+      },
+      {
+        "city": "Sherwood",
+        "slug": "sherwood-or",
+        "state": "OR",
+        "content": "Legacy Landscaping helps Sherwood homeowners create inviting outdoor spaces that reflect the city's small-town charm. Our services range from traditional lawn care to rustic hardscaping using natural materials. Sherwood's mild, wet winters call for resilient plants and smart water management, which we incorporate into every design.",
+        "localContext": "Sherwood's blend of rural and suburban landscapes offers unique opportunities for creative gardening.",
+        "nearbyAreas": [
+          "Tigard",
+          "Tualatin",
+          "Wilsonville"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "rain-garden-installation": "/images/service-rain-garden-installation.webp",
+      "drought-tolerant-landscaping": "/images/service-drought-tolerant-landscaping.webp",
+      "moss-management": "/images/service-moss-management.webp",
+      "native-plant-gardens": "/images/service-native-plant-gardens.webp",
+      "patio-hardscaping": "/images/service-patio-hardscaping.webp"
+    },
+    "servicesResponsive": {
+      "rain-garden-installation": {
+        "src": "/images/service-rain-garden-installation.webp",
+        "srcset": "/images/service-rain-garden-installation-400w.webp 400w, /images/service-rain-garden-installation-800w.webp 800w, /images/service-rain-garden-installation-1200w.webp 1200w, /images/service-rain-garden-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drought-tolerant-landscaping": {
+        "src": "/images/service-drought-tolerant-landscaping.webp",
+        "srcset": "/images/service-drought-tolerant-landscaping-400w.webp 400w, /images/service-drought-tolerant-landscaping-800w.webp 800w, /images/service-drought-tolerant-landscaping-1200w.webp 1200w, /images/service-drought-tolerant-landscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "moss-management": {
+        "src": "/images/service-moss-management.webp",
+        "srcset": "/images/service-moss-management-400w.webp 400w, /images/service-moss-management-800w.webp 800w, /images/service-moss-management-1200w.webp 1200w, /images/service-moss-management.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "native-plant-gardens": {
+        "src": "/images/service-native-plant-gardens.webp",
+        "srcset": "/images/service-native-plant-gardens-400w.webp 400w, /images/service-native-plant-gardens-800w.webp 800w, /images/service-native-plant-gardens-1200w.webp 1200w, /images/service-native-plant-gardens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-hardscaping": {
+        "src": "/images/service-patio-hardscaping.webp",
+        "srcset": "/images/service-patio-hardscaping-400w.webp 400w, /images/service-patio-hardscaping-800w.webp 800w, /images/service-patio-hardscaping-1200w.webp 1200w, /images/service-patio-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
